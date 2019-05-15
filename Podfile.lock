@@ -1,0 +1,16 @@
+PODS:
+  - SwipeSelectingCollectionView (0.1.3)
+
+DEPENDENCIES:
+  - SwipeSelectingCollectionView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwipeSelectingCollectionView
+
+SPEC CHECKSUMS:
+  SwipeSelectingCollectionView: 872ea1ed2dc3c4ffce4eae63d5a0739c83d86523
+
+PODFILE CHECKSUM: 13958481b917ea737e37f5ee9e43142f117d6aaf
+
+COCOAPODS: 1.5.3
